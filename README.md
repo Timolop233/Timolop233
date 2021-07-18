@@ -29,7 +29,7 @@ Self righteous, actually nothing.
 建议离我这种人远点，和我交朋友没有任何好处！
 
 
-<div><center><h3>Working Together</h3><center></div>
+<div><center><h3>My friends</h3><center></div>
 
 <table id="part"><tr>
     <td><a href="https://github.com/MagicLu550"><img src="https://avatars.githubusercontent.com/u/46070909?v=4" border=0 width=100px height=100px><div>MagicLu550</div></a></td>
